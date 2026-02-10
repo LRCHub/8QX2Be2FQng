@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Ma Boy",
+  "base_artist": "Sistar19",
+  "createdAt": "2026-02-10T20:17:42.340054Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "Dreamville feat. JID & Lute",
+      "has_synced": true,
+      "path": "select/01_Ma_Boy_Dreamville_feat._JID_&_Lute.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "Dreamville, JID, Lute",
+      "has_synced": true,
+      "path": "select/02_Ma_Boy_Dreamville,_JID,_Lute.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ma Boy (with JID & Lute)",
+      "artist": "Dreamville feat. JID & Lute",
+      "has_synced": true,
+      "path": "select/03_Ma_Boy_(with_JID_&_Lute)_Dreamville_feat._JID_&_Lute.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ma Boy (with JID & Lute)",
+      "artist": "Dreamville, JID, Lute",
+      "has_synced": true,
+      "path": "select/04_Ma_Boy_(with_JID_&_Lute)_Dreamville,_JID,_Lute.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ma Boy Feat. JID, Lute - Single",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/05_Ma_Boy_Feat._JID,_Lute_-_Single_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "SISTAR19",
+      "has_synced": true,
+      "path": "select/06_Ma_Boy_SISTAR19.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "SISTAR19",
+      "has_synced": false,
+      "path": "select/07_Ma_Boy_SISTAR19.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ma boy (Smells Remix)",
+      "artist": "SISTAR",
+      "has_synced": true,
+      "path": "select/08_Ma_boy_(Smells_Remix)_SISTAR.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ma boy (special Ver.)",
+      "artist": "SISTAR",
+      "has_synced": false,
+      "path": "select/09_Ma_boy_(special_Ver.)_SISTAR.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ma Boy (마보이)",
+      "artist": "SISTAR19",
+      "has_synced": true,
+      "path": "select/10_Ma_Boy_(마보이)_SISTAR19.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ma Boy (마보이) (Inst)",
+      "artist": "SISTAR19",
+      "has_synced": true,
+      "path": "select/11_Ma_Boy_(마보이)_(Inst)_SISTAR19.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "Dreamville, JID & Lute",
+      "has_synced": true,
+      "path": "select/12_Ma_Boy_Dreamville,_JID_&_Lute.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "SISTAR 19",
+      "has_synced": true,
+      "path": "select/13_Ma_Boy_SISTAR_19.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shy Ma Boy",
+      "artist": "15&",
+      "has_synced": false,
+      "path": "select/14_Shy_Ma_Boy_15&.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "Dreamville",
+      "has_synced": true,
+      "path": "select/15_Ma_Boy_Dreamville.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ma Boy (Remix)",
+      "artist": "SISTAR",
+      "has_synced": false,
+      "path": "select/16_Ma_Boy_(Remix)_SISTAR.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ma Boy",
+      "artist": "SISTAR",
+      "has_synced": false,
+      "path": "select/17_Ma_Boy_SISTAR.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ma boy (MA BOY)",
+      "artist": "Sistar19",
+      "has_synced": true,
+      "path": "select/18_Ma_boy_(MA_BOY)_Sistar19.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ma boy (special Ver.) (MA BOY (SPECIAL VER.))",
+      "artist": "Sistar",
+      "has_synced": true,
+      "path": "select/19_Ma_boy_(special_Ver.)_(MA_BOY_(SPECIAL_VER.))_Sistar.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ma Boy",
+      "artist": "SISTAR19",
+      "has_synced": false,
+      "path": "select/pl_01_Ma_Boy_SISTAR19.txt"
+    }
+  ]
+}
